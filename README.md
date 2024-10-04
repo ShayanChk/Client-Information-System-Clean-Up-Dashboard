@@ -1,7 +1,7 @@
-# CIS Clean Up Report Power BI Dashboard
+# Cliet Information Systems Clean Up Report Power BI Dashboard
 
 ## Overview
-This repository contains a Power BI dashboard that provides an analysis of the CIS Clean Up Report. The dashboard is designed to help stakeholders monitor, track, and analyze the cleanup of CIS (Customer Information System) data. It provides insights into data quality issues, performance metrics, and progress reports for the cleanup project.
+This repository contains a Power BI dashboard that provides an analysis of the Cliet Information Systems (CIS) Clean Up Report. The dashboard is designed to help stakeholders monitor, track, and analyze the cleanup of CIS data. It provides insights into data quality issues, performance metrics, and progress reports for the cleanup project.
 
 ## Dashboard Features
 The CIS Clean Up Report Dashboard includes the following key components:
