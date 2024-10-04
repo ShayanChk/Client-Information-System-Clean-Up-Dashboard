@@ -1,11 +1,11 @@
-CIS Clean Up Report Power BI Dashboard
-Overview
+# CIS Clean Up Report Power BI Dashboard
+## Overview
 This repository contains a Power BI dashboard that provides an analysis of the CIS Clean Up Report. The dashboard is designed to help stakeholders monitor, track, and analyze the cleanup of CIS (Customer Information System) data. It provides insights into data quality issues, performance metrics, and progress reports for the cleanup project.
 
-Dashboard Features
+## Dashboard Features
 The CIS Clean Up Report Dashboard includes the following key components:
 
-Data Quality Overview: A snapshot of data quality metrics, including missing fields, duplicate records, and erroneous entries.
+## Data Quality Overview: A snapshot of data quality metrics, including missing fields, duplicate records, and erroneous entries.
 Progress Tracking: Visual representations of the progress made on various cleanup tasks, including the number of records corrected, flagged, and removed.
 Performance Metrics: Key performance indicators (KPIs) that measure the speed and efficiency of the cleanup process.
 Error Categorization: Breakdown of common errors in the CIS data and their frequency, allowing for targeted cleanup efforts.
