@@ -6,15 +6,13 @@ This repository contains a Power BI dashboard that provides an analysis of the C
 ## Dashboard Features
 The CIS Clean Up Report Dashboard includes the following key components:
 
-## Data Quality Overview
-A snapshot of data quality metrics, including missing fields, duplicate records, and erroneous entries.
-Progress Tracking: Visual representations of the progress made on various cleanup tasks, including the number of records corrected, flagged, and removed.
-Performance Metrics: Key performance indicators (KPIs) that measure the speed and efficiency of the cleanup process.
-Error Categorization: Breakdown of common errors in the CIS data and their frequency, allowing for targeted cleanup efforts.
-Completion Timelines: Visual projections showing the estimated time to completion based on current progress rates.
+1. Data Quality Overview: A snapshot of data quality metrics, including missing fields, duplicate records, and erroneous entries.
+2. Progress Tracking: Visual representations of the progress made on various cleanup tasks, including the number of records corrected, flagged, and removed.
+3. Performance Metrics: Key performance indicators (KPIs) that measure the speed and efficiency of the cleanup process.
+4. Error Categorization: Breakdown of common errors in the CIS data and their frequency, allowing for targeted cleanup efforts.
+5. Completion Timelines: Visual projections showing the estimated time to completion based on current progress rates.
 
 ## Key Visuals
-Bar Charts: Represent progress in various cleanup tasks.
-Line Graphs: Track the number of data errors and their resolution over time.
-KPIs: Show key metrics such as total errors, resolved errors, and errors remaining.
-Pie Charts: Provide a breakdown of the types of data issues encountered during the cleanup process.
+1. Bar Charts: Represent progress in various cleanup tasks.
+2. Line Graphs: Track the number of data errors and their resolution over time.
+3. Pie Charts: Provide a breakdown of the types of data issues encountered during the cleanup process.
